@@ -40,19 +40,19 @@
 
 // }
 
-let question = new Map();
-question.set('que', 'What is your faourite SuperHero');
-question.set(1, 'Thor');
-question.set(2, 'Capt. America');
-question.set(3, 'Iron Man');
-question.set(4, 'Hulk');
-question.set('answer', 'Depend on You');
-console.log(`Question:- ${question.get('que')}`);
+// let question = new Map();
+// question.set('que', 'What is your faourite SuperHero');
+// question.set(1, 'Thor');
+// question.set(2, 'Capt. America');
+// question.set(3, 'Iron Man');
+// question.set(4, 'Hulk');
+// question.set('answer', 'Depend on You');
+// console.log(`Question:- ${question.get('que')}`);
 
-question.forEach((param) => {
-    console.log(param);
+// question.forEach((param) => {
+//     console.log(param);
 
-    // if (typeof param == integer) {
-    console.log(question.get(param));
-    // }
-})
+//     // if (typeof param == integer) {
+//     console.log(question.get(param));
+//     // }
+// })
